@@ -12,10 +12,10 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=truongvu049&style=flat-square&color=blue" alt=""/>
-  <h1>
-    hey there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  <h3 class="heading-element" dir="auto">Hi 👋, I'm <a href="https://longtao.fun" rel="nofollow">TruongVu049</a></h3>
+  <p align="center" dir="auto">
+                    <img src="https://github.com/eust-w/eust-w/raw/main/cat.webp" width="50" style="max-width: 100%;">
+    </p>
 </div>
 
 
