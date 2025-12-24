@@ -4,7 +4,7 @@
     <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://www.facebook.com/profile.php?id=100018052412753">
+    <a href="#">
      Facebook
     <a href="#">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
